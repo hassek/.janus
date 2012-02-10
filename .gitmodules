@@ -1,0 +1,15 @@
+[submodule "vim-conque"]
+	path = vim-conque
+	url = https://github.com/rygwdn/vim-conque.git
+[submodule "vim-powerline"]
+	path = vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "zencoding-vim"]
+	path = zencoding-vim
+	url = https://github.com/mattn/zencoding-vim.git
+[submodule "jslint.vim"]
+	path = jslint.vim
+	url = https://github.com/hallettj/jslint.vim.git
+[submodule "vim-pep8"]
+	path = vim-pep8
+	url = https://github.com/adrianrego/vim-pep8.git
