@@ -13,3 +13,6 @@
 [submodule "vim-pep8"]
 	path = vim-pep8
 	url = https://github.com/adrianrego/vim-pep8.git
+[submodule "vim-repeat"]
+	path = vim-repeat
+	url = https://github.com/tpope/vim-repeat
