@@ -10,9 +10,9 @@
 [submodule "jslint.vim"]
 	path = jslint.vim
 	url = https://github.com/hallettj/jslint.vim.git
-[submodule "vim-pep8"]
-	path = vim-pep8
-	url = https://github.com/adrianrego/vim-pep8.git
 [submodule "vim-repeat"]
 	path = vim-repeat
 	url = https://github.com/tpope/vim-repeat
+[submodule "django.vim"]
+	path = django.vim
+	url = git://github.com/vim-scripts/django.vim.git
