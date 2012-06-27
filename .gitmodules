@@ -7,12 +7,9 @@
 [submodule "zencoding-vim"]
 	path = zencoding-vim
 	url = https://github.com/mattn/zencoding-vim.git
-[submodule "jslint.vim"]
-	path = jslint.vim
-	url = https://github.com/hallettj/jslint.vim.git
 [submodule "vim-repeat"]
 	path = vim-repeat
 	url = https://github.com/tpope/vim-repeat
-[submodule "django.vim"]
-	path = django.vim
-	url = git://github.com/vim-scripts/django.vim.git
+[submodule "vim-largefile"]
+	path = vim-largefile
+	url = https://github.com/gmunkhbaatarmn/vim-largefile.git
