@@ -13,3 +13,6 @@
 [submodule "vim-largefile"]
 	path = vim-largefile
 	url = https://github.com/gmunkhbaatarmn/vim-largefile.git
+[submodule "vim-virtualenv"]
+	path = vim-virtualenv
+	url = https://github.com/jmcantrell/vim-virtualenv.git
