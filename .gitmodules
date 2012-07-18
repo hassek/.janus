@@ -13,3 +13,6 @@
 [submodule "vim-largefile"]
 	path = vim-largefile
 	url = https://github.com/gmunkhbaatarmn/vim-largefile.git
+[submodule "webapi-vim"]
+	path = webapi-vim
+	url = https://github.com/mattn/webapi-vim.git
