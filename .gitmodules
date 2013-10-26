@@ -16,3 +16,6 @@
 [submodule "webapi-vim"]
 	path = webapi-vim
 	url = https://github.com/mattn/webapi-vim.git
+[submodule "vim-easytest"]
+	path = vim-easytest
+	url = https://github.com/hassek/vim-easytest
