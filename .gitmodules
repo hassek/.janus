@@ -19,3 +19,9 @@
 [submodule "vim-easytest"]
 	path = vim-easytest
 	url = https://github.com/hassek/vim-easytest
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "LargeFile"]
+	path = LargeFile
+	url = https://github.com/vim-scripts/LargeFile
