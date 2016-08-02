@@ -25,3 +25,18 @@
 [submodule "LargeFile"]
 	path = LargeFile
 	url = https://github.com/vim-scripts/LargeFile
+[submodule "vim-tmux-runner"]
+	path = vim-tmux-runner
+	url = https://github.com/christoomey/vim-tmux-runner.git
+[submodule "vim-tmux-navigator"]
+	path = vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
+[submodule "vim-rspec"]
+	path = vim-rspec
+	url = https://github.com/thoughtbot/vim-rspec.git
+[submodule "vim-swift"]
+	path = vim-swift
+	url = https://github.com/toyamarinyon/vim-swift.git
+[submodule "netrw.vim"]
+	path = netrw.vim
+	url = https://github.com/vim-scripts/netrw.vim.git
