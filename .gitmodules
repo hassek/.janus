@@ -40,3 +40,9 @@
 [submodule "netrw.vim"]
 	path = netrw.vim
 	url = https://github.com/vim-scripts/netrw.vim.git
+[submodule "vim-conflicted"]
+	path = vim-conflicted
+	url = https://github.com/christoomey/vim-conflicted.git
+[submodule "greplace.vim"]
+	path = greplace.vim
+	url = https://github.com/skwp/greplace.vim
