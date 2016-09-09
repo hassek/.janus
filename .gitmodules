@@ -52,3 +52,6 @@
 [submodule "vim-system-copy"]
 	path = vim-system-copy
 	url = https://github.com/christoomey/vim-system-copy
+[submodule "vim-exchange"]
+	path = vim-exchange
+	url = https://github.com/tommcdo/vim-exchange
