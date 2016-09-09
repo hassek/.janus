@@ -46,3 +46,9 @@
 [submodule "greplace.vim"]
 	path = greplace.vim
 	url = https://github.com/skwp/greplace.vim
+[submodule "vim-sort-motion"]
+	path = vim-sort-motion
+	url = https://github.com/christoomey/vim-sort-motion
+[submodule "vim-system-copy"]
+	path = vim-system-copy
+	url = https://github.com/christoomey/vim-system-copy
