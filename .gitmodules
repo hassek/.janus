@@ -1,6 +1,3 @@
-[submodule "vim-powerline"]
-	path = vim-powerline
-	url = https://github.com/Lokaltog/vim-powerline.git
 [submodule "vim-repeat"]
 	path = vim-repeat
 	url = https://github.com/tpope/vim-repeat
@@ -22,9 +19,6 @@
 [submodule "vim-tmux-navigator"]
 	path = vim-tmux-navigator
 	url = https://github.com/christoomey/vim-tmux-navigator.git
-[submodule "vim-conflicted"]
-	path = vim-conflicted
-	url = https://github.com/christoomey/vim-conflicted.git
 [submodule "greplace.vim"]
 	path = greplace.vim
 	url = https://github.com/skwp/greplace.vim
