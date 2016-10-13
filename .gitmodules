@@ -34,3 +34,18 @@
 [submodule "powerline"]
 	path = powerline
 	url = https://github.com/powerline/powerline
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "tabline.vim"]
+	path = tabline.vim
+	url = https://github.com/mkitt/tabline.vim
+[submodule "taboo.vim"]
+	path = taboo.vim
+	url = https://github.com/gcmt/taboo.vim
+[submodule "vim-commentary"]
+	path = vim-commentary
+	url = https://github.com/tpope/vim-commentary
