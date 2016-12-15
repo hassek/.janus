@@ -49,3 +49,6 @@
 [submodule "vim-commentary"]
 	path = vim-commentary
 	url = https://github.com/tpope/vim-commentary
+[submodule "vim-isort"]
+	path = vim-isort
+	url = https://github.com/fisadev/vim-isort
