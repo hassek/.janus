@@ -52,3 +52,6 @@
 [submodule "vim-isort"]
 	path = vim-isort
 	url = https://github.com/fisadev/vim-isort
+[submodule "splitjoin.vim"]
+	path = splitjoin.vim
+	url = https://github.com/AndrewRadev/splitjoin.vim
