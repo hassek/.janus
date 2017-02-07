@@ -55,3 +55,6 @@
 [submodule "splitjoin.vim"]
 	path = splitjoin.vim
 	url = https://github.com/AndrewRadev/splitjoin.vim
+[submodule "ale"]
+	path = ale
+	url = https://github.com/w0rp/ale
