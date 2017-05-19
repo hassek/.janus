@@ -58,3 +58,6 @@
 [submodule "ale"]
 	path = ale
 	url = https://github.com/w0rp/ale
+[submodule "neoformat"]
+	path = neoformat
+	url = https://github.com/sbdchd/neoformat
