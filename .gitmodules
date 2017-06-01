@@ -61,3 +61,6 @@
 [submodule "neoformat"]
 	path = neoformat
 	url = https://github.com/sbdchd/neoformat
+[submodule "robotframework-vim"]
+	path = robotframework-vim
+	url = git://github.com/mfukar/robotframework-vim.git
