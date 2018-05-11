@@ -10,18 +10,12 @@
 [submodule "emmet-vim"]
 	path = emmet-vim
 	url = https://github.com/mattn/emmet-vim
-[submodule "LargeFile"]
-	path = LargeFile
-	url = https://github.com/vim-scripts/LargeFile
 [submodule "vim-tmux-runner"]
 	path = vim-tmux-runner
 	url = https://github.com/christoomey/vim-tmux-runner.git
 [submodule "vim-tmux-navigator"]
 	path = vim-tmux-navigator
 	url = https://github.com/christoomey/vim-tmux-navigator.git
-[submodule "greplace.vim"]
-	path = greplace.vim
-	url = https://github.com/skwp/greplace.vim
 [submodule "vim-sort-motion"]
 	path = vim-sort-motion
 	url = https://github.com/christoomey/vim-sort-motion
@@ -31,9 +25,6 @@
 [submodule "vim-exchange"]
 	path = vim-exchange
 	url = https://github.com/tommcdo/vim-exchange
-[submodule "powerline"]
-	path = powerline
-	url = https://github.com/powerline/powerline
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/vim-airline/vim-airline
@@ -61,6 +52,9 @@
 [submodule "neoformat"]
 	path = neoformat
 	url = https://github.com/sbdchd/neoformat
-[submodule "robotframework-vim"]
-	path = robotframework-vim
-	url = git://github.com/mfukar/robotframework-vim.git
+[submodule "vim-vue"]
+	path = vim-vue
+	url = https://github.com/posva/vim-vue.git
+[submodule "direnv.vim"]
+	path = direnv.vim
+	url = https://github.com/direnv/direnv.vim
